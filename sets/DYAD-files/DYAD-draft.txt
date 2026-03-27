@@ -1177,9 +1177,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Angel",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/236_UWU01.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/235_UWU01.png"
 			}
 		},
 		{
@@ -1734,9 +1734,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/234_UM02 UB Soul Harpooner.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/233_UM02 UB Soul Harpooner.png"
 			}
 		},
 		{
@@ -1744,9 +1744,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/223_UM01 Grixis Violent Dispersal.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/222_UM01 Grixis Violent Dispersal.png"
 			}
 		},
 		{
@@ -1754,9 +1754,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/239_UM01 Flame Harvesters.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/238_UM01 Flame Harvesters.png"
 			}
 		},
 		{
@@ -1764,9 +1764,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}{W}",
 			"type": "",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/225_UM01 Naya.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/224_UM01 Naya.png"
 			}
 		},
 		{
@@ -1774,9 +1774,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/221_UM01 Bant.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/220_UM01 Bant.png"
 			}
 		},
 		{
@@ -1784,9 +1784,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/242_UM01 Veil of the Elite.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/241_UM01 Veil of the Elite.png"
 			}
 		},
 		{
@@ -1794,9 +1794,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/241_UM01 UR Sceptre of Intention.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/240_UM01 UR Sceptre of Intention.png"
 			}
 		},
 		{
@@ -1804,9 +1804,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}",
 			"type": "",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/224_UM01 Jund.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/223_UM01 Jund.png"
 			}
 		},
 		{
@@ -1814,19 +1814,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/W}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/240_UM01 Relic of Sanctity.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/239_UM01 Relic of Sanctity.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "THIS CARD HAD NO NAME",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/238_.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/237_THIS CARD HAD NO NAME.png"
 			}
 		},
 		{
@@ -1924,9 +1924,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/244_CA02 Blessed Amulet.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/243_CA02 Blessed Amulet.png"
 			}
 		},
 		{
@@ -1934,9 +1934,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/249_UA02 Mark of Enotia.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/248_UA02 Mark of Enotia.png"
 			}
 		},
 		{
@@ -1944,9 +1944,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/250_UA03 Mark of Anekotos.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/249_UA03 Mark of Anekotos.png"
 			}
 		},
 		{
@@ -1954,9 +1954,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/251_UA04 Mark of Nikilal.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/250_UA04 Mark of Nikilal.png"
 			}
 		},
 		{
@@ -1964,9 +1964,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/252_UA05 Mark of Eirini.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/251_UA05 Mark of Eirini.png"
 			}
 		},
 		{
@@ -1974,9 +1974,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/246_CA04 Sweltering Forge.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/245_CA04 Sweltering Forge.png"
 			}
 		},
 		{
@@ -1984,9 +1984,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/245_CA03 Unearthed Golem.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/244_CA03 Unearthed Golem.png"
 			}
 		},
 		{
@@ -1994,9 +1994,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/259_UL01.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/258_UL01.png"
 			}
 		},
 		{
@@ -2004,9 +2004,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/260_UL02.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/259_UL02.png"
 			}
 		},
 		{
@@ -2014,9 +2014,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/261_UL03.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/260_UL03.png"
 			}
 		},
 		{
@@ -2024,9 +2024,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/253_CL01 Tranquil Cove.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/252_CL01 Tranquil Cove.png"
 			}
 		},
 		{
@@ -2034,9 +2034,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/263_UL05.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/262_UL05.png"
 			}
 		},
 		{
@@ -2094,9 +2094,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/258_RX01 Fronteir Supply.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/257_RX01 Fronteir Supply.png"
 			}
 		},
 		{
@@ -2272,9 +2272,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/222_UM01 Esper Tenacious March.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/221_UM01 Esper Tenacious March.png"
 			}
 		},
 		{
@@ -2362,9 +2362,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/248_UA01 Mark of Agios.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/247_UA01 Mark of Agios.png"
 			}
 		},
 		{
@@ -2372,9 +2372,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Angel Construct",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/247_CA05 Silverwing Diplomat.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/246_CA05 Silverwing Diplomat.png"
 			}
 		},
 		{
@@ -2382,9 +2382,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/243_CA01 Iron Renegade.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/242_CA01 Iron Renegade.png"
 			}
 		},
 		{
@@ -2392,9 +2392,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{W}{U}",
 			"type": "Creature — Angel",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/230_UM02 Bant Willmaker of Agios.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/229_UM02 Bant Willmaker of Agios.png"
 			}
 		},
 		{
@@ -2402,9 +2402,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/231_UM02 Esper.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/230_UM02 Esper.png"
 			}
 		},
 		{
@@ -2412,9 +2412,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/232_UM02 Grixis.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/231_UM02 Grixis.png"
 			}
 		},
 		{
@@ -2432,15 +2432,25 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}{W}",
 			"type": "",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/233_UM02 Naya.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/232_UM02 Naya.png"
 			}
 		},
 		{
 			"name": "RM01",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/198_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
 			"type": "",
 			"collector_number": "199",
 			"image_uris": {
@@ -2450,21 +2460,11 @@
 		{
 			"name": "RM01",
 			"rarity": "rare",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "{U}{B}",
 			"type": "",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/200_RM01.png"
-			}
-		},
-		{
-			"name": "RM01",
-			"rarity": "rare",
-			"mana_cost": "{U}{B}",
-			"type": "",
-			"collector_number": "198",
-			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/198_RM01.png"
 			}
 		},
 		{
@@ -2502,9 +2502,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/262_UL04.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/261_UL04.png"
 			}
 		},
 		{
@@ -2512,9 +2512,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/254_CL02 Dismal Backwater.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/253_CL02 Dismal Backwater.png"
 			}
 		},
 		{
@@ -2522,9 +2522,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/255_CL03 Bloodfell Caves.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/254_CL03 Bloodfell Caves.png"
 			}
 		},
 		{
@@ -2532,9 +2532,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/257_CL05 Blossoming Sands.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/256_CL05 Blossoming Sands.png"
 			}
 		},
 		{
@@ -2542,19 +2542,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/256_CL04 Rugged Highlands.png"
-			}
-		},
-		{
-			"name": "UGR01",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Angel",
-			"collector_number": "217",
-			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/217_UGR01.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/255_CL04 Rugged Highlands.png"
 			}
 		},
 		{
@@ -2562,9 +2552,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Creature — Angel",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/220_UM01.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/219_UM01.png"
 			}
 		},
 		{
@@ -2572,9 +2562,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Angel Knight",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/219_UM01.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/218_UM01.png"
 			}
 		},
 		{
@@ -2582,9 +2572,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/218_UGW01.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/217_UGW01.png"
 			}
 		},
 		{
@@ -2592,9 +2582,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "226",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/226_UM02.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/228_UM02.png"
 			}
 		},
 		{
@@ -2612,9 +2602,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Elf Priest Soldier",
-			"collector_number": "228",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/228_UM02.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/226_UM02.png"
 			}
 		},
 		{
@@ -2622,9 +2612,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/235_UM03.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/234_UM03.png"
 			}
 		},
 		{
@@ -2632,9 +2622,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/237_UWU02.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/236_UWU02.png"
 			}
 		},
 		{
@@ -2642,9 +2632,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "",
-			"collector_number": "229",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/229_UM02.png"
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/225_UM02.png"
 			}
 		},
 		{
@@ -2861,7 +2851,7 @@
 	4 UM01 UR Sceptre of Intention
 	4 UM01 Jund
 	4 UM01 Relic of Sanctity
-	4 
+	4 THIS CARD HAD NO NAME
 	4 UA02 Mark of Enotia
 	4 UA03 Mark of Anekotos
 	4 UA04 Mark of Nikilal
@@ -2883,7 +2873,6 @@
 	4 U204 Symbol of Vengeance
 	4 UM02 Naya
 	4 UL04
-	4 UGR01
 	4 UM01
 	4 UM01
 	4 UGW01
@@ -3167,7 +3156,7 @@
 	15 UM01 UR Sceptre of Intention
 	15 UM01 Jund
 	15 UM01 Relic of Sanctity
-	15 
+	15 THIS CARD HAD NO NAME
 	7 RM01 grixis
 	7 RM01 Esper Legend
 	7 RM01 Genno, Dominating General
@@ -3237,7 +3226,6 @@
 	6 CL03 Bloodfell Caves
 	6 CL05 Blossoming Sands
 	6 CL04 Rugged Highlands
-	15 UGR01
 	15 UM01
 	15 UM01
 	15 UGW01

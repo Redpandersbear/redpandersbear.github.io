@@ -1,0 +1,3056 @@
+[CustomCards]
+	[
+		{
+			"name": "RG02 Virtue of Harmony",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Angel Shaman",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/160_RG02 Virtue of Harmony.png"
+			}
+		},
+		{
+			"name": "RB02 Virtue of Acceptance",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/89_RB02 Virtue of Acceptance.png"
+			}
+		},
+		{
+			"name": "RR01Virtue of Decisiveness",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/123_RR01Virtue of Decisiveness.png"
+			}
+		},
+		{
+			"name": "RU02 Virtue of Patience",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Angel Knight",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/51_RU02 Virtue of Patience.png"
+			}
+		},
+		{
+			"name": "RW01 Virtue of Grace",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/23_RW01 Virtue of Grace.png"
+			}
+		},
+		{
+			"name": "Enotia's Chosen",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Spirit Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/37_Enotia's Chosen.png"
+			}
+		},
+		{
+			"name": "Agio's Apostle",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/1_Agio's Apostle.png"
+			}
+		},
+		{
+			"name": "Nikilal's Offer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/116_Nikilal's Offer.png"
+			}
+		},
+		{
+			"name": "Disciple of Anekotos",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/68_Disciple of Anekotos.png"
+			}
+		},
+		{
+			"name": "Eirini's Devoted",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "142",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/142_Eirini's Devoted_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/142_Eirini's Devoted_front.png"
+			}
+		},
+		{
+			"name": "Holyshot Barrage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/16_Holyshot Barrage.png"
+			}
+		},
+		{
+			"name": "First-Class Gallant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "14",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/14_First-Class Gallant_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/14_First-Class Gallant_front.png"
+			}
+		},
+		{
+			"name": "Thunderplate Smiter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Spirit Soldier",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/32_Thunderplate Smiter.png"
+			}
+		},
+		{
+			"name": "Ekklian Holyguard",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/10_Ekklian Holyguard.png"
+			}
+		},
+		{
+			"name": "Sender of War",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/31_Sender of War.png"
+			}
+		},
+		{
+			"name": "Crushing Bulwark",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Spirit Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/5_Crushing Bulwark.png"
+			}
+		},
+		{
+			"name": "Lightwing Courier",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/18_Lightwing Courier.png"
+			}
+		},
+		{
+			"name": "Divine Lancer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/8_Divine Lancer.png"
+			}
+		},
+		{
+			"name": "Deliverer of Hope",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/6_Deliverer of Hope.png"
+			}
+		},
+		{
+			"name": "Fan the Aggressors",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/13_Fan the Aggressors.png"
+			}
+		},
+		{
+			"name": "Legacy of Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/17_Legacy of Light.png"
+			}
+		},
+		{
+			"name": "Banishing Swipe",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/2_Banishing Swipe.png"
+			}
+		},
+		{
+			"name": "Raid the Armory",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/21_Raid the Armory.png"
+			}
+		},
+		{
+			"name": "Unwavering Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/64_Unwavering Devotion.png"
+			}
+		},
+		{
+			"name": "Martyr of Meaning",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/42_Martyr of Meaning.png"
+			}
+		},
+		{
+			"name": "Researcher of Armaments",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/49_Researcher of Armaments.png"
+			}
+		},
+		{
+			"name": "Shepherd of Wayward Souls",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/59_Shepherd of Wayward Souls.png"
+			}
+		},
+		{
+			"name": "Soulforged Mystic",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Spirit Cleric",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/60_Soulforged Mystic.png"
+			}
+		},
+		{
+			"name": "Upholder of Authority",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/65_Upholder of Authority.png"
+			}
+		},
+		{
+			"name": "Uplifter of Legions",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Angel Knight",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/66_Uplifter of Legions.png"
+			}
+		},
+		{
+			"name": "Heavensgate Preacher",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/39_Heavensgate Preacher.png"
+			}
+		},
+		{
+			"name": "Spell-Absorbing Plates",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/62_Spell-Absorbing Plates.png"
+			}
+		},
+		{
+			"name": "Repel the Tide",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/48_Repel the Tide.png"
+			}
+		},
+		{
+			"name": "Ascend the Skies",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/35_Ascend the Skies.png"
+			}
+		},
+		{
+			"name": "Gem of Purity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/38_Gem of Purity.png"
+			}
+		},
+		{
+			"name": "Safeguarded Secrets",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/57_Safeguarded Secrets.png"
+			}
+		},
+		{
+			"name": "Siphoner of the Dead",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/98_Siphoner of the Dead.png"
+			}
+		},
+		{
+			"name": "Martyr of War",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/81_Martyr of War.png"
+			}
+		},
+		{
+			"name": "Preacher of Metania",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/85_Preacher of Metania.png"
+			}
+		},
+		{
+			"name": "Legion Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Spirit Soldier",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/79_Legion Infiltrator.png"
+			}
+		},
+		{
+			"name": "Tahose Helmsplitter",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/99_Tahose Helmsplitter.png"
+			}
+		},
+		{
+			"name": "Patroller of Muck",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crocodile",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/84_Patroller of Muck.png"
+			}
+		},
+		{
+			"name": "Saline Executioner",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Spirit Knight",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/96_Saline Executioner.png"
+			}
+		},
+		{
+			"name": "Despoiler of Deriliction",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/73_Despoiler of Deriliction.png"
+			}
+		},
+		{
+			"name": "Choose to Serve",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/71_Choose to Serve.png"
+			}
+		},
+		{
+			"name": "Test of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/101_Test of Loyalty.png"
+			}
+		},
+		{
+			"name": "Clandestine Coverup",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/72_Clandestine Coverup.png"
+			}
+		},
+		{
+			"name": "Agonizing Bladesinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/69_Agonizing Bladesinger.png"
+			}
+		},
+		{
+			"name": "Brutal Reprisal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/70_Brutal Reprisal.png"
+			}
+		},
+		{
+			"name": "Reckless Descendent",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "121",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/121_Reckless Descendent_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/121_Reckless Descendent_front.png"
+			}
+		},
+		{
+			"name": "Tahose Frontliner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/130_Tahose Frontliner.png"
+			}
+		},
+		{
+			"name": "Cremator of Transgressions",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/104_Cremator of Transgressions.png"
+			}
+		},
+		{
+			"name": "Mobilize the Front",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/112_Mobilize the Front.png"
+			}
+		},
+		{
+			"name": "Nikilal's Faithless",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/115_Nikilal's Faithless.png"
+			}
+		},
+		{
+			"name": "Brandish Resentment",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/103_Brandish Resentment.png"
+			}
+		},
+		{
+			"name": "Winged Commander",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/134_Winged Commander.png"
+			}
+		},
+		{
+			"name": "Wings of Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/135_Wings of Wrath.png"
+			}
+		},
+		{
+			"name": "Embrace the Dawn",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/107_Embrace the Dawn.png"
+			}
+		},
+		{
+			"name": "Pyre of Purity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/120_Pyre of Purity.png"
+			}
+		},
+		{
+			"name": "Flames of Rebirth",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/108_Flames of Rebirth.png"
+			}
+		},
+		{
+			"name": "Tahosean Ravager",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/169_Tahosean Ravager.png"
+			}
+		},
+		{
+			"name": "Orfaoen Great-Hart",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/150_Orfaoen Great-Hart.png"
+			}
+		},
+		{
+			"name": "Orfoan Wander",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "151",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/151_Orfoan Wander_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/151_Orfoan Wander_front.png"
+			}
+		},
+		{
+			"name": "Quartered Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/156_Quartered Sentinel.png"
+			}
+		},
+		{
+			"name": "Battalion Crusher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "138",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/138_Battalion Crusher_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/138_Battalion Crusher_front.png"
+			}
+		},
+		{
+			"name": "Legion Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/147_Legion Crusher.png"
+			}
+		},
+		{
+			"name": "Overwhelming Steel",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/155_Overwhelming Steel.png"
+			}
+		},
+		{
+			"name": "Celestial of the Grove",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Angel Mercenary",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/140_Celestial of the Grove.png"
+			}
+		},
+		{
+			"name": "Eirini's Trail",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/143_Eirini's Trail.png"
+			}
+		},
+		{
+			"name": "Flourishing Conviction",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/144_Flourishing Conviction.png"
+			}
+		},
+		{
+			"name": "Refuse the Heavens",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/157_Refuse the Heavens.png"
+			}
+		},
+		{
+			"name": "Rise to the Skies",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/167_Rise to the Skies.png"
+			}
+		},
+		{
+			"name": "Envoy of Peace",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/12_Envoy of Peace.png"
+			}
+		},
+		{
+			"name": "Eklian Advance",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/11_Eklian Advance.png"
+			}
+		},
+		{
+			"name": "Divine Singularity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/9_Divine Singularity.png"
+			}
+		},
+		{
+			"name": "Chosen Blademaster",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Spirit Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/4_Chosen Blademaster.png"
+			}
+		},
+		{
+			"name": "Workshop Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/67_Workshop Maiden.png"
+			}
+		},
+		{
+			"name": "Unifying Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/33_Unifying Devotion.png"
+			}
+		},
+		{
+			"name": "Frontier Responder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Archer",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/15_Frontier Responder_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/15_Frontier Responder_front.png"
+			}
+		},
+		{
+			"name": "Destined to Return",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/7_Destined to Return.png"
+			}
+		},
+		{
+			"name": "Binding Whisper",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/36_Binding Whisper.png"
+			}
+		},
+		{
+			"name": "Battlefront Surgeon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/3_Battlefront Surgeon.png"
+			}
+		},
+		{
+			"name": "Legion Soulwarper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Spirit Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/40_Legion Soulwarper.png"
+			}
+		},
+		{
+			"name": "Seraph Magerender",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Angel Knight",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/58_Seraph Magerender.png"
+			}
+		},
+		{
+			"name": "Loss of Purpose",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/41_Loss of Purpose.png"
+			}
+		},
+		{
+			"name": "Observer of Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/47_Observer of Souls.png"
+			}
+		},
+		{
+			"name": "Split Off",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/63_Split Off.png"
+			}
+		},
+		{
+			"name": "Mountaintop Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Gnome Scout",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/44_Mountaintop Watcher.png"
+			}
+		},
+		{
+			"name": "Moonlit Communion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/43_Moonlit Communion.png"
+			}
+		},
+		{
+			"name": "Irreverent Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Spirit Berserker",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/77_Irreverent Crusher.png"
+			}
+		},
+		{
+			"name": "Failed Repentant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Spirit Soldier",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/75_Failed Repentant.png"
+			}
+		},
+		{
+			"name": "Listless Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/80_Listless Shepherd.png"
+			}
+		},
+		{
+			"name": "Prosecutor of Impurity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/86_Prosecutor of Impurity.png"
+			}
+		},
+		{
+			"name": "RB09 Silencer of Seraphs",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/95_RB09 Silencer of Seraphs.png"
+			}
+		},
+		{
+			"name": "Test of Fidelity",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/100_Test of Fidelity.png"
+			}
+		},
+		{
+			"name": "Instrument of Retribution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/76_Instrument of Retribution.png"
+			}
+		},
+		{
+			"name": "RT04 Betrayed by Blood",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/212_RT04 Betrayed by Blood.png"
+			}
+		},
+		{
+			"name": "RB07 Stolen From Home",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/94_RB07 Stolen From Home.png"
+			}
+		},
+		{
+			"name": "Doctrine of Rebirth",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/74_Doctrine of Rebirth.png"
+			}
+		},
+		{
+			"name": "Desperate Bladebreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/105_Desperate Bladebreaker.png"
+			}
+		},
+		{
+			"name": "Funnel Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/109_Funnel Lightning.png"
+			}
+		},
+		{
+			"name": "Despoiling Arsonist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/106_Despoiling Arsonist.png"
+			}
+		},
+		{
+			"name": "Traveling Weaponsdealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dwarf Citizen",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/131_Traveling Weaponsdealer.png"
+			}
+		},
+		{
+			"name": "Metanian Rubyhood",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Snake",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/111_Metanian Rubyhood.png"
+			}
+		},
+		{
+			"name": "Metanian Pyremaster",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/110_Metanian Pyremaster.png"
+			}
+		},
+		{
+			"name": "Village Torcher",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/132_Village Torcher.png"
+			}
+		},
+		{
+			"name": "Pillar of Retribution",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/118_Pillar of Retribution.png"
+			}
+		},
+		{
+			"name": "Wandering Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "133",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/133_Wandering Champion_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/133_Wandering Champion_front.png"
+			}
+		},
+		{
+			"name": "Panic Attack",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/117_Panic Attack.png"
+			}
+		},
+		{
+			"name": "Smiths of the Old Way",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/168_Smiths of the Old Way.png"
+			}
+		},
+		{
+			"name": "Belligerent Blacksmith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/139_Belligerent Blacksmith.png"
+			}
+		},
+		{
+			"name": "Aloof Cloudhunter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giant Ranger",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/136_Aloof Cloudhunter.png"
+			}
+		},
+		{
+			"name": "Hostile Greenhorn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/146_Hostile Greenhorn.png"
+			}
+		},
+		{
+			"name": "Overwhelming Coordination",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/153_Overwhelming Coordination.png"
+			}
+		},
+		{
+			"name": "Return What Was Lost",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/158_Return What Was Lost.png"
+			}
+		},
+		{
+			"name": "Overwhelming Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/154_Overwhelming Devotion.png"
+			}
+		},
+		{
+			"name": "Docent of Tranquility",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Angel Druid",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/141_Docent of Tranquility.png"
+			}
+		},
+		{
+			"name": "Overpass Watchers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/152_Overpass Watchers.png"
+			}
+		},
+		{
+			"name": "Ancient Siegebreaker",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/137_Ancient Siegebreaker.png"
+			}
+		},
+		{
+			"name": "RW02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/24_RW02.png"
+			}
+		},
+		{
+			"name": "RW03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/25_RW03.png"
+			}
+		},
+		{
+			"name": "RW04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/26_RW04.png"
+			}
+		},
+		{
+			"name": "RW05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/27_RW05.png"
+			}
+		},
+		{
+			"name": "RW06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/28_RW06.png"
+			}
+		},
+		{
+			"name": "RW07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/30_RW07.png"
+			}
+		},
+		{
+			"name": "RU01 Bellatear, Enotia's Shadow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Spirit Assasin",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/50_RU01 Bellatear, Enotia's Shadow.png"
+			}
+		},
+		{
+			"name": "RU03 Cleanse the Past",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/52_RU03 Cleanse the Past.png"
+			}
+		},
+		{
+			"name": "RU04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/53_RU04.png"
+			}
+		},
+		{
+			"name": "RU05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/54_RU05.png"
+			}
+		},
+		{
+			"name": "RU06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/55_RU06.png"
+			}
+		},
+		{
+			"name": "RU07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/56_RU07.png"
+			}
+		},
+		{
+			"name": "RB01 Iris and Atlas, Deliquent Nobles",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/87_RB01 Iris and Atlas, Deliquent Nobles.png"
+			}
+		},
+		{
+			"name": "RB04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/91_RB04.png"
+			}
+		},
+		{
+			"name": "RB05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/92_RB05.png"
+			}
+		},
+		{
+			"name": "RB06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/93_RB06.png"
+			}
+		},
+		{
+			"name": "Isolating Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/78_Isolating Devotion.png"
+			}
+		},
+		{
+			"name": "RR02 Sundering Paragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/124_RR02 Sundering Paragon.png"
+			}
+		},
+		{
+			"name": "RR03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/125_RR03.png"
+			}
+		},
+		{
+			"name": "RR04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/126_RR04.png"
+			}
+		},
+		{
+			"name": "RR06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/128_RR06.png"
+			}
+		},
+		{
+			"name": "RR07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/129_RR07.png"
+			}
+		},
+		{
+			"name": "RG01 Brutal Recluse",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/159_RG01 Brutal Recluse.png"
+			}
+		},
+		{
+			"name": "RG08 Dawnsteel Pennant",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "166",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/166_RG08 Dawnsteel Pennant_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/166_RG08 Dawnsteel Pennant_front.png"
+			}
+		},
+		{
+			"name": "RG04 Rankbreaker Paladin",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/162_RG04 Rankbreaker Paladin.png"
+			}
+		},
+		{
+			"name": "RG03 Desperate Frontliner",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/161_RG03 Desperate Frontliner.png"
+			}
+		},
+		{
+			"name": "RG06 Unrelenting Champion",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/164_RG06 Unrelenting Champion.png"
+			}
+		},
+		{
+			"name": "RG05 Rainboweater",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/163_RG05 Rainboweater.png"
+			}
+		},
+		{
+			"name": "RG07 Ancestral Siege",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/165_RG07 Ancestral Siege.png"
+			}
+		},
+		{
+			"name": "MW01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/19_MW01.png"
+			}
+		},
+		{
+			"name": "MW02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/20_MW02.png"
+			}
+		},
+		{
+			"name": "MU01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/45_MU01.png"
+			}
+		},
+		{
+			"name": "MU02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/46_MU02.png"
+			}
+		},
+		{
+			"name": "MB01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/82_MB01.png"
+			}
+		},
+		{
+			"name": "MB02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/83_MB02.png"
+			}
+		},
+		{
+			"name": "MR01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/113_MR01.png"
+			}
+		},
+		{
+			"name": "MR02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/114_MR02.png"
+			}
+		},
+		{
+			"name": "MG01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/148_MG01.png"
+			}
+		},
+		{
+			"name": "MG02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/149_MG02.png"
+			}
+		},
+		{
+			"name": "UB Baleful Enactment",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/221_UB Baleful Enactment.png"
+			}
+		},
+		{
+			"name": "Violent Dispersal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/222_Violent Dispersal.png"
+			}
+		},
+		{
+			"name": "Orfoa Ambushers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/193_Orfoa Ambushers.png"
+			}
+		},
+		{
+			"name": "Tahosean Shadow",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Elf Assassin",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/220_Tahosean Shadow.png"
+			}
+		},
+		{
+			"name": "RM01 grixis",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/201_RM01 grixis.png"
+			}
+		},
+		{
+			"name": "REM03 Soulless Gargantuan",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Artifact Creature — Spirit Knight",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/196_REM03 Soulless Gargantuan.png"
+			}
+		},
+		{
+			"name": "RM01 Genno, Dominating General",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/122_RM01 Genno, Dominating General.png"
+			}
+		},
+		{
+			"name": "RM01 Naya Legend",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/206_RM01 Naya Legend.png"
+			}
+		},
+		{
+			"name": "RM01 Bant Legend",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/199_RM01 Bant Legend.png"
+			}
+		},
+		{
+			"name": "RM01 Grixis Legend",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/202_RM01 Grixis Legend.png"
+			}
+		},
+		{
+			"name": "RM01 Jund",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/205_RM01 Jund.png"
+			}
+		},
+		{
+			"name": "RM01 Invigorating Battlebonds",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/204_RM01 Invigorating Battlebonds.png"
+			}
+		},
+		{
+			"name": "RM01 Bant",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/198_RM01 Bant.png"
+			}
+		},
+		{
+			"name": "CA02 Blessed Amulet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/225_CA02 Blessed Amulet.png"
+			}
+		},
+		{
+			"name": "Mark of Enotia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/232_Mark of Enotia.png"
+			}
+		},
+		{
+			"name": "Mark of Anekotos",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/230_Mark of Anekotos.png"
+			}
+		},
+		{
+			"name": "Mark of Nikilal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/233_Mark of Nikilal.png"
+			}
+		},
+		{
+			"name": "Mark of Eirini",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/231_Mark of Eirini.png"
+			}
+		},
+		{
+			"name": "CA04 Sweltering Forge",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/227_CA04 Sweltering Forge.png"
+			}
+		},
+		{
+			"name": "CA03 Unearthed Golem",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/226_CA03 Unearthed Golem.png"
+			}
+		},
+		{
+			"name": "Unbreakable Bastion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/245_Unbreakable Bastion.png"
+			}
+		},
+		{
+			"name": "Fort of Fortune's Tides",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/240_Fort of Fortune's Tides.png"
+			}
+		},
+		{
+			"name": "Sinner's Respite",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/244_Sinner's Respite.png"
+			}
+		},
+		{
+			"name": "CL01 Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/235_CL01 Tranquil Cove.png"
+			}
+		},
+		{
+			"name": "Persevering Village",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/242_Persevering Village.png"
+			}
+		},
+		{
+			"name": "RX01 Fronteir Supply",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/243_RX01 Fronteir Supply.png"
+			}
+		},
+		{
+			"name": "Archangel Anekotos",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Angel Cleric",
+			"collector_number": "170",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/170_Archangel Anekotos_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/170_Archangel Anekotos_front.png"
+			}
+		},
+		{
+			"name": "Archangel Enotia",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Angel Wizard",
+			"collector_number": "172",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/172_Archangel Enotia_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/172_Archangel Enotia_front.png"
+			}
+		},
+		{
+			"name": "GRX01 Jubilent Plunderguard",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/185_GRX01 Jubilent Plunderguard.png"
+			}
+		},
+		{
+			"name": "Archangel Nikilal",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Angel Rebel",
+			"collector_number": "173",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/173_Archangel Nikilal_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/173_Archangel Nikilal_front.png"
+			}
+		},
+		{
+			"name": "Archangel Eirini",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Angel Cleric",
+			"collector_number": "171",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/171_Archangel Eirini_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/171_Archangel Eirini_front.png"
+			}
+		},
+		{
+			"name": "Consecrator of Hope",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/G}{2/W}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/178_Consecrator of Hope.png"
+			}
+		},
+		{
+			"name": "Blinding Summons",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/176_Blinding Summons.png"
+			}
+		},
+		{
+			"name": "Siphoning Flames",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/214_Siphoning Flames.png"
+			}
+		},
+		{
+			"name": "Cult Infiltration",
+			"rarity": "common",
+			"mana_cost": "{2/W}{2/U}{2/B}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/180_Cult Infiltration.png"
+			}
+		},
+		{
+			"name": "Cruel Defeat",
+			"rarity": "common",
+			"mana_cost": "{2/B}{2/R}{2/G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/179_Cruel Defeat.png"
+			}
+		},
+		{
+			"name": "Mandate of Perfection",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/190_Mandate of Perfection.png"
+			}
+		},
+		{
+			"name": "Sworn of Anekotos",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/B}{2/R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/218_Sworn of Anekotos.png"
+			}
+		},
+		{
+			"name": "Blitzing Paladin",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/177_Blitzing Paladin.png"
+			}
+		},
+		{
+			"name": "Lightwing Surveyor",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/189_Lightwing Surveyor.png"
+			}
+		},
+		{
+			"name": "Mark of Agios",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/229_Mark of Agios.png"
+			}
+		},
+		{
+			"name": "CA05 Silverwing Diplomat",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/228_CA05 Silverwing Diplomat.png"
+			}
+		},
+		{
+			"name": "CA01 Iron Renegade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/224_CA01 Iron Renegade.png"
+			}
+		},
+		{
+			"name": "Soulforged Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Artifact Creature — Spirit Knight",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/216_Soulforged Champion.png"
+			}
+		},
+		{
+			"name": "Symbol of Vengeance",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}{2/R}{2/G}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/219_Symbol of Vengeance.png"
+			}
+		},
+		{
+			"name": "RM01 WU",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/210_RM01 WU.png"
+			}
+		},
+		{
+			"name": "RM01 GW",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/203_RM01 GW.png"
+			}
+		},
+		{
+			"name": "RM01 UB",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/209_RM01 UB.png"
+			}
+		},
+		{
+			"name": "RM01 RG",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/207_RM01 RG.png"
+			}
+		},
+		{
+			"name": "RM01 The Dawn of Saline",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/208_RM01 The Dawn of Saline.png"
+			}
+		},
+		{
+			"name": "Broken Countryside",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/234_Broken Countryside.png"
+			}
+		},
+		{
+			"name": "CL02 Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/236_CL02 Dismal Backwater.png"
+			}
+		},
+		{
+			"name": "CL03 Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/237_CL03 Bloodfell Caves.png"
+			}
+		},
+		{
+			"name": "CL05 Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/239_CL05 Blossoming Sands.png"
+			}
+		},
+		{
+			"name": "CL04 Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/238_CL04 Rugged Highlands.png"
+			}
+		},
+		{
+			"name": "Heavensgate Lieutenant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/187_Heavensgate Lieutenant.png"
+			}
+		},
+		{
+			"name": "Duty of Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/183_Duty of Ancients.png"
+			}
+		},
+		{
+			"name": "Grizzled Outposter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Dwarf Bear Scout",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/184_Grizzled Outposter.png"
+			}
+		},
+		{
+			"name": "Watchers of Orfao",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "34",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/34_Watchers of Orfao_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/34_Watchers of Orfao_front.png"
+			}
+		},
+		{
+			"name": "Armory Maiden",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "102",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://redpandersbear.github.io/sets/DYAD-files/img/102_Armory Maiden_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/102_Armory Maiden_front.png"
+			}
+		},
+		{
+			"name": "Dutiful Seraphim",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}{2/W}{2/U}",
+			"type": "Creature — Angel Knight",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/182_Dutiful Seraphim.png"
+			}
+		},
+		{
+			"name": "Bestower of Significance",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}{2/U}{2/B}",
+			"type": "Creature — Angel Wizard",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/175_Bestower of Significance.png"
+			}
+		},
+		{
+			"name": "Sorrow Cleanser",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}{2/B}{2/R}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/215_Sorrow Cleanser.png"
+			}
+		},
+		{
+			"name": "Stirrer of Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}{2/G}{2/W}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/217_Stirrer of Arms.png"
+			}
+		},
+		{
+			"name": "Despoil and Conquer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/181_Despoil and Conquer.png"
+			}
+		},
+		{
+			"name": "Heavensgate Watchers",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/145_Heavensgate Watchers.png"
+			}
+		},
+		{
+			"name": "Heavensgate Paladin",
+			"rarity": "common",
+			"mana_cost": "{2/G}{2/W}{2/U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/188_Heavensgate Paladin.png"
+			}
+		},
+		{
+			"name": "RM02 Unrelenting Advance",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/211_RM02 Unrelenting Advance.png"
+			}
+		},
+		{
+			"name": "Soulforged Workshop",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/61_Soulforged Workshop.png"
+			}
+		},
+		{
+			"name": "RB03 Displaced Battleheart",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Barbarian",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/90_RB03 Displaced Battleheart.png"
+			}
+		},
+		{
+			"name": "RW06 Prayers of Aid",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/29_RW06 Prayers of Aid.png"
+			}
+		},
+		{
+			"name": "RM01 Disciple of Fading Flames",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/200_RM01 Disciple of Fading Flames.png"
+			}
+		},
+		{
+			"name": "North Seas Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{W}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/191_North Seas Protector.png"
+			}
+		},
+		{
+			"name": "RR05 Offering to Violence",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/127_RR05 Offering to Violence.png"
+			}
+		},
+		{
+			"name": "RB02 Tahosean Blemish",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/88_RB02 Tahosean Blemish.png"
+			}
+		},
+		{
+			"name": "Purifying Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/119_Purifying Devotion.png"
+			}
+		},
+		{
+			"name": "Heavenfall Outcast",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/186_Heavenfall Outcast.png"
+			}
+		},
+		{
+			"name": "Avenger of Endless Conflict",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/174_Avenger of Endless Conflict.png"
+			}
+		},
+		{
+			"name": "Wings of New Beginnings",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/223_Wings of New Beginnings.png"
+			}
+		},
+		{
+			"name": "Serene Flagbearer",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Angel Knight",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/213_Serene Flagbearer.png"
+			}
+		},
+		{
+			"name": "Nurturer of the Broken",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/192_Nurturer of the Broken.png"
+			}
+		},
+		{
+			"name": "Spirit Soldier",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/1_Spirit Soldier.png"
+			}
+		},
+		{
+			"name": "REM01 Esper Legend",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/194_REM01 Esper Legend.png"
+			}
+		},
+		{
+			"name": "REM04 Sorrowful Pleas",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/197_REM04 Sorrowful Pleas.png"
+			}
+		},
+		{
+			"name": "REM02 Esper",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/195_REM02 Esper.png"
+			}
+		},
+		{
+			"name": "Parasis, Heavenly Bastion",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/241_Parasis, Heavenly Bastion.png"
+			}
+		},
+		{
+			"name": "Repetent Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Giant Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/22_Repetent Colossus.png"
+			}
+		},
+		{
+			"name": "Serpent of Trials",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Serpent",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://redpandersbear.github.io/sets/DYAD-files/img/97_Serpent of Trials.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 RG02 Virtue of Harmony
+	2 RB02 Virtue of Acceptance
+	2 RR01Virtue of Decisiveness
+	2 RU02 Virtue of Patience
+	2 RW01 Virtue of Grace
+	2 RB09 Silencer of Seraphs
+	2 RT04 Betrayed by Blood
+	2 RB07 Stolen From Home
+	2 RW02
+	2 RW03
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RW07
+	2 RU01 Bellatear, Enotia's Shadow
+	2 RU03 Cleanse the Past
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RU07
+	2 RB01 Iris and Atlas, Deliquent Nobles
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RR02 Sundering Paragon
+	2 RR03
+	2 RR04
+	2 RR06
+	2 RR07
+	2 RG01 Brutal Recluse
+	2 RG08 Dawnsteel Pennant
+	2 RG04 Rankbreaker Paladin
+	2 RG03 Desperate Frontliner
+	2 RG06 Unrelenting Champion
+	2 RG05 Rainboweater
+	2 RG07 Ancestral Siege
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 MR01
+	1 MR02
+	1 MG01
+	1 MG02
+	2 RM01 grixis
+	2 REM03 Soulless Gargantuan
+	2 RM01 Genno, Dominating General
+	2 RM01 Naya Legend
+	2 RM01 Bant Legend
+	2 RM01 Grixis Legend
+	2 RM01 Jund
+	2 RM01 Invigorating Battlebonds
+	2 RM01 Bant
+	2 RX01 Fronteir Supply
+	1 Archangel Anekotos
+	1 Archangel Enotia
+	2 GRX01 Jubilent Plunderguard
+	1 Archangel Nikilal
+	1 Archangel Eirini
+	2 RM01 WU
+	2 RM01 GW
+	2 RM01 UB
+	2 RM01 RG
+	2 RM01 The Dawn of Saline
+	2 RM02 Unrelenting Advance
+	2 RB03 Displaced Battleheart
+	2 RW06 Prayers of Aid
+	2 RM01 Disciple of Fading Flames
+	2 RR05 Offering to Violence
+	2 RB02 Tahosean Blemish
+	1 Heavenfall Outcast
+	1 Avenger of Endless Conflict
+	1 Wings of New Beginnings
+	1 Serene Flagbearer
+	1 Nurturer of the Broken
+	2 REM01 Esper Legend
+	2 REM04 Sorrowful Pleas
+	2 REM02 Esper
+	1 Parasis, Heavenly Bastion
+[uncommon(4)]
+	4 Eirini's Devoted
+	4 Holyshot Barrage
+	4 Divine Lancer
+	4 Unwavering Devotion
+	4 Agonizing Bladesinger
+	4 Brutal Reprisal
+	4 Wings of Wrath
+	4 Embrace the Dawn
+	4 Pyre of Purity
+	4 Legion Crusher
+	4 Rise to the Skies
+	4 Eklian Advance
+	4 Divine Singularity
+	4 Chosen Blademaster
+	4 Workshop Maiden
+	4 Unifying Devotion
+	4 Destined to Return
+	4 Battlefront Surgeon
+	4 Legion Soulwarper
+	4 Seraph Magerender
+	4 Loss of Purpose
+	4 Observer of Souls
+	4 Split Off
+	4 Mountaintop Watcher
+	4 Moonlit Communion
+	4 Irreverent Crusher
+	4 Failed Repentant
+	4 Listless Shepherd
+	4 Prosecutor of Impurity
+	4 Test of Fidelity
+	4 Instrument of Retribution
+	4 Desperate Bladebreaker
+	4 Funnel Lightning
+	4 Despoiling Arsonist
+	4 Traveling Weaponsdealer
+	4 Metanian Rubyhood
+	4 Wandering Champion
+	4 Belligerent Blacksmith
+	4 Aloof Cloudhunter
+	4 Hostile Greenhorn
+	4 Overwhelming Coordination
+	4 Return What Was Lost
+	4 Overwhelming Devotion
+	4 Docent of Tranquility
+	4 Isolating Devotion
+	4 UB Baleful Enactment
+	4 Violent Dispersal
+	4 Orfoa Ambushers
+	4 Tahosean Shadow
+	4 Mark of Enotia
+	4 Mark of Anekotos
+	4 Mark of Nikilal
+	4 Mark of Eirini
+	4 Unbreakable Bastion
+	4 Fort of Fortune's Tides
+	4 Sinner's Respite
+	4 Persevering Village
+	4 Mark of Agios
+	4 Soulforged Champion
+	4 Symbol of Vengeance
+	4 Broken Countryside
+	4 Heavensgate Lieutenant
+	4 Duty of Ancients
+	4 Grizzled Outposter
+	4 Watchers of Orfao
+	4 Dutiful Seraphim
+	4 Bestower of Significance
+	4 Sorrow Cleanser
+	4 Stirrer of Arms
+	4 Despoil and Conquer
+	4 Soulforged Workshop
+	4 North Seas Protector
+	4 Purifying Devotion
+	4 Repetent Colossus
+	4 Serpent of Trials
+[common(7)]
+	8 Enotia's Chosen
+	8 Agio's Apostle
+	8 Nikilal's Offer
+	8 Disciple of Anekotos
+	8 First-Class Gallant
+	8 Thunderplate Smiter
+	8 Ekklian Holyguard
+	8 Sender of War
+	8 Crushing Bulwark
+	8 Lightwing Courier
+	8 Deliverer of Hope
+	8 Fan the Aggressors
+	8 Legacy of Light
+	8 Banishing Swipe
+	8 Raid the Armory
+	8 Martyr of Meaning
+	8 Researcher of Armaments
+	8 Shepherd of Wayward Souls
+	8 Soulforged Mystic
+	8 Upholder of Authority
+	8 Uplifter of Legions
+	8 Heavensgate Preacher
+	8 Spell-Absorbing Plates
+	8 Repel the Tide
+	8 Ascend the Skies
+	8 Gem of Purity
+	8 Safeguarded Secrets
+	8 Siphoner of the Dead
+	8 Martyr of War
+	8 Preacher of Metania
+	8 Legion Infiltrator
+	8 Tahose Helmsplitter
+	8 Patroller of Muck
+	8 Saline Executioner
+	8 Despoiler of Deriliction
+	8 Choose to Serve
+	8 Test of Loyalty
+	8 Clandestine Coverup
+	8 Reckless Descendent
+	8 Tahose Frontliner
+	8 Cremator of Transgressions
+	8 Mobilize the Front
+	8 Nikilal's Faithless
+	8 Brandish Resentment
+	8 Winged Commander
+	8 Flames of Rebirth
+	8 Tahosean Ravager
+	8 Orfaoen Great-Hart
+	8 Orfoan Wander
+	8 Quartered Sentinel
+	8 Battalion Crusher
+	8 Overwhelming Steel
+	8 Celestial of the Grove
+	8 Eirini's Trail
+	8 Flourishing Conviction
+	8 Refuse the Heavens
+	8 Envoy of Peace
+	8 Frontier Responder
+	8 Binding Whisper
+	8 Doctrine of Rebirth
+	8 Metanian Pyremaster
+	8 Village Torcher
+	8 Pillar of Retribution
+	8 Panic Attack
+	8 Smiths of the Old Way
+	8 Overpass Watchers
+	8 Ancient Siegebreaker
+	8 CA02 Blessed Amulet
+	8 CA04 Sweltering Forge
+	8 CA03 Unearthed Golem
+	8 CL01 Tranquil Cove
+	8 Consecrator of Hope
+	8 Blinding Summons
+	8 Siphoning Flames
+	8 Cult Infiltration
+	8 Cruel Defeat
+	8 Mandate of Perfection
+	8 Sworn of Anekotos
+	8 Blitzing Paladin
+	8 Lightwing Surveyor
+	8 CA05 Silverwing Diplomat
+	8 CA01 Iron Renegade
+	8 CL02 Dismal Backwater
+	8 CL03 Bloodfell Caves
+	8 CL05 Blossoming Sands
+	8 CL04 Rugged Highlands
+	8 Armory Maiden
+	8 Heavensgate Watchers
+	8 Heavensgate Paladin
+[wildcard(2)]
+	7 RG02 Virtue of Harmony
+	7 RB02 Virtue of Acceptance
+	7 RR01Virtue of Decisiveness
+	7 RU02 Virtue of Patience
+	7 RW01 Virtue of Grace
+	6 Enotia's Chosen
+	6 Agio's Apostle
+	6 Nikilal's Offer
+	6 Disciple of Anekotos
+	15 Eirini's Devoted
+	15 Holyshot Barrage
+	6 First-Class Gallant
+	6 Thunderplate Smiter
+	6 Ekklian Holyguard
+	6 Sender of War
+	6 Crushing Bulwark
+	6 Lightwing Courier
+	15 Divine Lancer
+	6 Deliverer of Hope
+	6 Fan the Aggressors
+	6 Legacy of Light
+	6 Banishing Swipe
+	6 Raid the Armory
+	15 Unwavering Devotion
+	6 Martyr of Meaning
+	6 Researcher of Armaments
+	6 Shepherd of Wayward Souls
+	6 Soulforged Mystic
+	6 Upholder of Authority
+	6 Uplifter of Legions
+	6 Heavensgate Preacher
+	6 Spell-Absorbing Plates
+	6 Repel the Tide
+	6 Ascend the Skies
+	6 Gem of Purity
+	6 Safeguarded Secrets
+	6 Siphoner of the Dead
+	6 Martyr of War
+	6 Preacher of Metania
+	6 Legion Infiltrator
+	6 Tahose Helmsplitter
+	6 Patroller of Muck
+	6 Saline Executioner
+	6 Despoiler of Deriliction
+	6 Choose to Serve
+	6 Test of Loyalty
+	6 Clandestine Coverup
+	15 Agonizing Bladesinger
+	15 Brutal Reprisal
+	6 Reckless Descendent
+	6 Tahose Frontliner
+	6 Cremator of Transgressions
+	6 Mobilize the Front
+	6 Nikilal's Faithless
+	6 Brandish Resentment
+	6 Winged Commander
+	15 Wings of Wrath
+	15 Embrace the Dawn
+	15 Pyre of Purity
+	6 Flames of Rebirth
+	6 Tahosean Ravager
+	6 Orfaoen Great-Hart
+	6 Orfoan Wander
+	6 Quartered Sentinel
+	6 Battalion Crusher
+	15 Legion Crusher
+	6 Overwhelming Steel
+	6 Celestial of the Grove
+	6 Eirini's Trail
+	6 Flourishing Conviction
+	6 Refuse the Heavens
+	15 Rise to the Skies
+	6 Envoy of Peace
+	15 Eklian Advance
+	15 Divine Singularity
+	15 Chosen Blademaster
+	15 Workshop Maiden
+	15 Unifying Devotion
+	6 Frontier Responder
+	15 Destined to Return
+	6 Binding Whisper
+	15 Battlefront Surgeon
+	15 Legion Soulwarper
+	15 Seraph Magerender
+	15 Loss of Purpose
+	15 Observer of Souls
+	15 Split Off
+	15 Mountaintop Watcher
+	15 Moonlit Communion
+	15 Irreverent Crusher
+	15 Failed Repentant
+	15 Listless Shepherd
+	15 Prosecutor of Impurity
+	7 RB09 Silencer of Seraphs
+	15 Test of Fidelity
+	15 Instrument of Retribution
+	7 RT04 Betrayed by Blood
+	7 RB07 Stolen From Home
+	6 Doctrine of Rebirth
+	15 Desperate Bladebreaker
+	15 Funnel Lightning
+	15 Despoiling Arsonist
+	15 Traveling Weaponsdealer
+	15 Metanian Rubyhood
+	6 Metanian Pyremaster
+	6 Village Torcher
+	6 Pillar of Retribution
+	15 Wandering Champion
+	6 Panic Attack
+	6 Smiths of the Old Way
+	15 Belligerent Blacksmith
+	15 Aloof Cloudhunter
+	15 Hostile Greenhorn
+	15 Overwhelming Coordination
+	15 Return What Was Lost
+	15 Overwhelming Devotion
+	15 Docent of Tranquility
+	6 Overpass Watchers
+	6 Ancient Siegebreaker
+	7 RW02
+	7 RW03
+	7 RW04
+	7 RW05
+	7 RW06
+	7 RW07
+	7 RU01 Bellatear, Enotia's Shadow
+	7 RU03 Cleanse the Past
+	7 RU04
+	7 RU05
+	7 RU06
+	7 RU07
+	7 RB01 Iris and Atlas, Deliquent Nobles
+	7 RB04
+	7 RB05
+	7 RB06
+	15 Isolating Devotion
+	7 RR02 Sundering Paragon
+	7 RR03
+	7 RR04
+	7 RR06
+	7 RR07
+	7 RG01 Brutal Recluse
+	7 RG08 Dawnsteel Pennant
+	7 RG04 Rankbreaker Paladin
+	7 RG03 Desperate Frontliner
+	7 RG06 Unrelenting Champion
+	7 RG05 Rainboweater
+	7 RG07 Ancestral Siege
+	4 MW01
+	4 MW02
+	4 MU01
+	4 MU02
+	4 MB01
+	4 MB02
+	4 MR01
+	4 MR02
+	4 MG01
+	4 MG02
+	15 UB Baleful Enactment
+	15 Violent Dispersal
+	15 Orfoa Ambushers
+	15 Tahosean Shadow
+	7 RM01 grixis
+	7 REM03 Soulless Gargantuan
+	7 RM01 Genno, Dominating General
+	7 RM01 Naya Legend
+	7 RM01 Bant Legend
+	7 RM01 Grixis Legend
+	7 RM01 Jund
+	7 RM01 Invigorating Battlebonds
+	7 RM01 Bant
+	6 CA02 Blessed Amulet
+	15 Mark of Enotia
+	15 Mark of Anekotos
+	15 Mark of Nikilal
+	15 Mark of Eirini
+	6 CA04 Sweltering Forge
+	6 CA03 Unearthed Golem
+	15 Unbreakable Bastion
+	15 Fort of Fortune's Tides
+	15 Sinner's Respite
+	6 CL01 Tranquil Cove
+	15 Persevering Village
+	7 RX01 Fronteir Supply
+	4 Archangel Anekotos
+	4 Archangel Enotia
+	7 GRX01 Jubilent Plunderguard
+	4 Archangel Nikilal
+	4 Archangel Eirini
+	6 Consecrator of Hope
+	6 Blinding Summons
+	6 Siphoning Flames
+	6 Cult Infiltration
+	6 Cruel Defeat
+	6 Mandate of Perfection
+	6 Sworn of Anekotos
+	6 Blitzing Paladin
+	6 Lightwing Surveyor
+	15 Mark of Agios
+	6 CA05 Silverwing Diplomat
+	6 CA01 Iron Renegade
+	15 Soulforged Champion
+	15 Symbol of Vengeance
+	7 RM01 WU
+	7 RM01 GW
+	7 RM01 UB
+	7 RM01 RG
+	7 RM01 The Dawn of Saline
+	15 Broken Countryside
+	6 CL02 Dismal Backwater
+	6 CL03 Bloodfell Caves
+	6 CL05 Blossoming Sands
+	6 CL04 Rugged Highlands
+	15 Heavensgate Lieutenant
+	15 Duty of Ancients
+	15 Grizzled Outposter
+	15 Watchers of Orfao
+	6 Armory Maiden
+	15 Dutiful Seraphim
+	15 Bestower of Significance
+	15 Sorrow Cleanser
+	15 Stirrer of Arms
+	15 Despoil and Conquer
+	6 Heavensgate Watchers
+	6 Heavensgate Paladin
+	7 RM02 Unrelenting Advance
+	15 Soulforged Workshop
+	7 RB03 Displaced Battleheart
+	7 RW06 Prayers of Aid
+	7 RM01 Disciple of Fading Flames
+	15 North Seas Protector
+	7 RR05 Offering to Violence
+	7 RB02 Tahosean Blemish
+	15 Purifying Devotion
+	4 Heavenfall Outcast
+	4 Avenger of Endless Conflict
+	4 Wings of New Beginnings
+	4 Serene Flagbearer
+	4 Nurturer of the Broken
+	7 REM01 Esper Legend
+	7 REM04 Sorrowful Pleas
+	7 REM02 Esper
+	4 Parasis, Heavenly Bastion
+	15 Repetent Colossus
+	15 Serpent of Trials
